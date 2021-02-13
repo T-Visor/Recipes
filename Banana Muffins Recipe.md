@@ -5,9 +5,10 @@
 * muffin cups
 
 ## Ingredients
-* 1.5 cups of all-purpose flour
+* 1 1/2 cups of all-purpose flour
 * 1 teaspoon baking powder
 * 1 teaspoon of baking soda
+* 1/2 teaspoon of salt
 * 3 large bananas mashed
 * 3/4 cups of white sugar
 * 1 egg
